@@ -1,18 +1,21 @@
-# DecodeLabs-InternshipTasks
+# Rule-Based AI Chatbot
 
-This repository contains projects completed during the DecodeLabs AI Internship.
+A simple Python chatbot built using rule-based logic with if-elif-else statements.
 
-## Projects
+## Features
 
-### Project 1: Rule-Based AI Chatbot
-- Python based chatbot
-- Handles greetings, jokes, date and time responses
+- Greeting users
+- Answering predefined questions
+- Help command
+- Exit command
+- Unknown input handling
 
-### Project 2: Heart Disease Classification Using AI
-- Machine Learning classification project
-- Algorithm: Random Forest Classifier
-- Accuracy: 92.20%
+## Technologies
 
-## Author
+- Python 3
+- Git
+- GitHub
 
-Rabeel Fatima
+## How to Run
+
+python chatbot.py
